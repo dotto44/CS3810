@@ -1,2 +1,2 @@
 # CS3810
-Projects from UofU CS3810
+Assembly scripts from UofU CS3810
